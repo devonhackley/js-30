@@ -3,5 +3,7 @@ body {
   margin: 0;
   background: url(https://i.imgur.com/iPOX337.jpg);
   background-size: cover;
-  
+  font-family: helvetica;
+  font-size: 1em;
+  text-align: center;
 }
